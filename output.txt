@@ -1,0 +1,11 @@
+Suggest corrections:
+'Knowledge->Knowledge (Word 219)
+
+inborn->unborn (Word 271)
+
+publick->public (Word 399)
+
+straitness->strictness (Word 418)
+
+Text polarity:0.21353174603174602
+Text subjectivity:0.5953968253968255
